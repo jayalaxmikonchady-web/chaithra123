@@ -432,11 +432,11 @@
         "print(titanic_df.columns)"
       ],
       "metadata": {
-        "id": "Xbz9jcsVvYVd",
-        "outputId": "5d26d4df-fcc0-4671-9712-0a66e6ac2719",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "Xbz9jcsVvYVd",
+        "outputId": "5d26d4df-fcc0-4671-9712-0a66e6ac2719"
       },
       "execution_count": 6,
       "outputs": [
